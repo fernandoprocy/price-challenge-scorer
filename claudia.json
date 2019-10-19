@@ -1,0 +1,10 @@
+{
+  "lambda": {
+    "role": "challenge-scorer-executor",
+    "name": "challenge-scorer",
+    "region": "us-east-1"
+  },
+  "api": {
+    "id": "yr5p7e8e8j"
+  }
+}

@@ -1,0 +1,5 @@
+{
+    "ground_truth_path": "./data/ground-truth.csv",
+    "column_header_names": "id,price",
+    "default_scorer": "rmse"
+}
